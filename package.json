@@ -1,5 +1,6 @@
 {
-  "name": "https://rytst.github.io",
+  "homepage": "https://rytst.github.io",
+  "name": "rytst.github.io",
   "private": true,
   "version": "0.0.0",
   "type": "module",
